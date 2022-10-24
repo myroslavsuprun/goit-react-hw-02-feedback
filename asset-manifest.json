@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myroslavsuprun/goit-react-hw-02-feedback.git/static/css/main.e2991fac.css",
+    "main.js": "/myroslavsuprun/goit-react-hw-02-feedback.git/static/js/main.32099281.js",
+    "index.html": "/myroslavsuprun/goit-react-hw-02-feedback.git/index.html",
+    "main.e2991fac.css.map": "/myroslavsuprun/goit-react-hw-02-feedback.git/static/css/main.e2991fac.css.map",
+    "main.32099281.js.map": "/myroslavsuprun/goit-react-hw-02-feedback.git/static/js/main.32099281.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2991fac.css",
+    "static/js/main.32099281.js"
+  ]
+}
