@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/myroslavsuprun/goit-react-hw-02-feedback.git/static/css/main.1e629fd4.css",
-    "main.js": "/myroslavsuprun/goit-react-hw-02-feedback.git/static/js/main.16c06859.js",
+    "main.css": "/myroslavsuprun/goit-react-hw-02-feedback.git/static/css/main.6a5be396.css",
+    "main.js": "/myroslavsuprun/goit-react-hw-02-feedback.git/static/js/main.ff39d86b.js",
     "index.html": "/myroslavsuprun/goit-react-hw-02-feedback.git/index.html",
-    "main.1e629fd4.css.map": "/myroslavsuprun/goit-react-hw-02-feedback.git/static/css/main.1e629fd4.css.map",
-    "main.16c06859.js.map": "/myroslavsuprun/goit-react-hw-02-feedback.git/static/js/main.16c06859.js.map"
+    "main.6a5be396.css.map": "/myroslavsuprun/goit-react-hw-02-feedback.git/static/css/main.6a5be396.css.map",
+    "main.ff39d86b.js.map": "/myroslavsuprun/goit-react-hw-02-feedback.git/static/js/main.ff39d86b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e629fd4.css",
-    "static/js/main.16c06859.js"
+    "static/css/main.6a5be396.css",
+    "static/js/main.ff39d86b.js"
   ]
 }
